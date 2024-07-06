@@ -1,32 +1,39 @@
 <h1 align="center">
-  Gow - The lightweight alternative to Cygwin
+  Gow 
+  <br>
 </h1>
+<h2 align="center">
+  The Lightweight Alternative to Cygwin
+</h3>
 <h4 align="center">
 
 [Download](https://github.com/bmatzelle/gow/releases/latest "Find the latest release here") | [Gow Wiki (Home Page)](http://github.com/bmatzelle/gow/wiki "Read the Gow wiki for more details") |  [FAQ](http://github.com/bmatzelle/gow/wiki/faq "Find answers to the most common Gow-related questions")
-<br><br>Author:   Brent R. Matzelle</h4>
-
-<br>
+<br><br>Author:   Brent R. Matzelle<br><br>
+<img src="https://github.com/poa00/gow/assets/134162878/b4f4c7b4-bdb3-4c84-a7d9-93eddd8e46a3" height=300px width=auto>
+</h4>
 
 ABOUT
 -----
 <div align="justify">
   
-Gow (**G**nu **O**n **W**indows) is the lightweight alternative to Cygwin. Gow's installer  makes 130 extremely useful 
+<strong>Gow</strong> (<strong><ins>G</ins></strong>nu <strong><ins>O</ins></strong>n <strong><ins>W</ins></strong>indows) is the lightweight alternative to Cygwin. Gow's installer  makes 130 extremely useful 
 open source UNIX applications (compiled as native Win32 binaries) conveniently available for immediate use on your Windows system. It is designed to be as small as possible, only ~10 MB. in contrast to Cygwin 
 which can easily exceed 100 MB depending upon options.
-</div><br>
+</div>
 
-## Testimonials
+TESTIMONIALS
+------------
 
-|Here are a couple quotes from happy Gow users:|
-| :-- |
-| |
-|"Gow is one of the few things that makes Windows bearable/usable"|
-|  |
-| "I use Gow constantly. It's awesome." |
-||
-|"I just wanted to let you know that the GOW Suite is simply great - <br> it is far lighter than the Cygwin tool, and is extremely useful." |
+Here are a couple quotes from happy Gow users:
+
+<br>
+
+>**"Gow is one of the few things that makes Windows bearable/usable"**
+>
+> **"I use Gow constantly. It's awesome."**
+>
+>**"I just wanted to let you know that the GOW Suite is simply great - it is far lighter than the Cygwin tool, and is extremely useful."**
+
 
 FEATURES & BENEFITS
 -------------------
@@ -44,7 +51,7 @@ FEATURES & BENEFITS
   possible.
 
 OTHER LINKS
----------------------
+------------
 
 - [Release Notes](http://github.com/bmatzelle/gow/wiki/change_log)
 - [Contributing](https://github.com/bmatzelle/gow/wiki/contributing)
