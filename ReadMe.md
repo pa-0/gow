@@ -55,7 +55,7 @@ OTHER LINKS
 
 - [Release Notes](http://github.com/bmatzelle/gow/wiki/change_log)
 - [Contributing](https://github.com/bmatzelle/gow/wiki/contributing)
-- [Executables list](https://github.com/bmatzelle/gow/wiki/executables_list))
+- [Executables list](https://github.com/bmatzelle/gow/wiki/executables_list)
 - [Unix command reference](http://www.pixelbeat.org/cmdline.html)
 
 FEEDBACK
